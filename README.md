@@ -1,4 +1,8 @@
 # EverChart
+
+![](https://img.shields.io/badge/OpenJDK-17+-F80000?logo=openjdk&logoColor=F80000&style=flat-square)
+![](https://img.shields.io/badge/EverChart-0.1-green?style=flat-square)
+
 Data visualization library using Java. It can be inherited from JPanel and used with Java Swing components, and multiple items can be customized.
 
 ---

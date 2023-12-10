@@ -30,3 +30,5 @@ EverChart chart = EverChart
                 .appendData(data1, data2)
                 .build();
 ```
+
+![PREVIEW](https://github.com/jy2694/EverChart/blob/main/README-EXAMPLE.png?raw=true)
